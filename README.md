@@ -19,7 +19,7 @@ scipy
 This code is purely for research and statistics, absolutley NOT for application or testing of any sort.do not use  it on computer vision software trained with this code
 
 # How to Use
-Download the [dataset]https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view) and extract into the repository folder if u want u can use other  data sets also
+Download the [dataset] and extract into the repository folder if u want u can use other  data sets also
 You can use udacity self driving dataset also depending on what suits you
 
 `python train.py` - To train this model
